@@ -1,1 +1,1 @@
-jellyfina/embyserver
+wizzer/jellyfin_pinyin 
