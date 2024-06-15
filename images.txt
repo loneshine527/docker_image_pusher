@@ -1,1 +1,1 @@
-jellyfin/jellyfin
+linuxserver/qbittorrent
