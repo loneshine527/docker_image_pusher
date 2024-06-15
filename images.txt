@@ -1,1 +1,1 @@
-wizzer/jellyfin_pinyin 
+jellyfin/jellyfin
